@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "jgclark.vscode-todo-highlight",
+        "christian-kohler.path-intellisense",
+        "mhutchie.git-graph",
+        "alefragnani.bookmarks"
+    ]
+}
